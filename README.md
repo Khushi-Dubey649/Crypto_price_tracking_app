@@ -28,7 +28,7 @@ A responsive, real-time **Crypto Price Tracker** built with **React** and **Vite
 
 ```bash
 # Clone the repo
-git clone https://github.com/Khushi-Dubey649/crypto-price-tracker.git
+git clone https://github.com/Khushi-Dubey649/Crypto_price_tracking_app.git
 
 # Navigate into project
 cd crypto-price-tracker
